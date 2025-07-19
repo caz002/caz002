@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm @caz002, a frontend software engineer based in the San Francisco Bay Area.
+I am @caz002, a software engineer based with experience coding applications for broadcast media and medical research. I love designing and building innovative user experiences, and am looking for more opportunities to develop my skills. 
 
-I love designing and building accessible user interfaces based on innovative ideas. Outside of coding, I also enjoy drawing and reading new books.
+Outside of coding, I also enjoy arts, crafts, and reading new books
 
