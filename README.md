@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am @caz002. I love designing and building innovative user experiences, and am looking for career opportunities to develop my skills.
+I am @caz002. Love designing and building innovative user experiences. Would love to help out on any projects!
 
 ## Recent Activity
 <!--START_SECTION:activity-->
