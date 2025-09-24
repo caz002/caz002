@@ -1,6 +1,9 @@
 ## Hi there! 👋
 
-I am @caz002. Love designing and building innovative user experiences.
+I am @caz002, software engineer.
+
+## Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caz002&repo=art-app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false)](https://github.com/caz002/art-app)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
