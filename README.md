@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am @caz002, software engineer.
+I am @caz002, a software engineer focused on fullstack development.
 
 ## Currently Working On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caz002&repo=art-app)](https://github.com/caz002/art-app)
