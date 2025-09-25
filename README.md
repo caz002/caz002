@@ -8,8 +8,8 @@ I am @caz002, a software engineer learning fullstack development.
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8345](https://github.com/hackforla/website/pull/8345#issuecomment-3330485975) in [hackforla/website](https://github.com/hackforla/website)
-2. ❌ Labeled PR [#54](undefined) in [caz002/art-app](https://github.com/caz002/art-app)
-3. ❌ Assigned PR [#54](undefined) in [caz002/art-app](https://github.com/caz002/art-app)
-4. 💪 Opened PR [#54](undefined) in [caz002/art-app](https://github.com/caz002/art-app)
-5.  Labeled issue [#8128](https://github.com/hackforla/website/issues/8128) in [hackforla/website](https://github.com/hackforla/website)
+2. 💪 Opened PR [#54](https://github.com/caz002/art-app/pull/54) in [caz002/art-app](https://github.com/caz002/art-app)
+3. ❗ Opened issue [#53](https://github.com/caz002/art-app/issues/53) in [caz002/art-app](https://github.com/caz002/art-app)
+4. ❗ Opened issue [#52](https://github.com/caz002/art-app/issues/52) in [caz002/art-app](https://github.com/caz002/art-app)
+5. 💪 Opened PR [#51](https://github.com/caz002/art-app/pull/51) in [caz002/art-app](https://github.com/caz002/art-app)
 <!--END_SECTION:activity-->
