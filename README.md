@@ -3,7 +3,7 @@
 I am @caz002, a software engineer learning fullstack development.
 
 ## Currently Working On
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caz002&repo=art-app)](https://github.com/caz002/art-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caz002&repo=inv-chatbot)](https://github.com/caz002/inv-chatbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackforla&repo=website)](https://github.com/hackforla/website)
 ## Recent Activity
 <!--START_SECTION:activity-->
