@@ -1,10 +1,17 @@
 ## Hi there! 👋
 
-I am @caz002, a software engineer learning fullstack development.
+I am @caz002, a software engineer passionate about exploring the realms of coding, machine learning, and fullstack development. 
 
-## Currently Working On
+## What I'm Up To
+- :computer: Developing sketch canvas app with built-in habit tracker
+- :handshake: Volunteering for civic tech organizations at Hack for LA
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caz002&repo=art-app)](https://github.com/caz002/art-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackforla&repo=website)](https://github.com/hackforla/website)
+
+## Technologies Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz002&layout=compact)
+
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#56](https://github.com/caz002/art-app/issues/56) in [caz002/art-app](https://github.com/caz002/art-app)
