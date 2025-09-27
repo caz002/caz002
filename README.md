@@ -4,7 +4,7 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Currently Working On
 - 💻 Creating a digital sketching web app with a built-in habit tracker [Link](https://github.com/caz002/art-app)
-- 🤝 Volunteering on fullstack development for Hack for LA [Link](https://github.com/hackforla/website)
+- 🤝 Volunteering for civic tech organizations at Hack for LA [Link](https://github.com/hackforla/website)
 
 ## Technologies Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz002&layout=compact)
