@@ -11,9 +11,9 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/caz002/art-app/pull/57) in [caz002/art-app](https://github.com/caz002/art-app)
-2. ❗ Opened issue [#56](https://github.com/caz002/art-app/issues/56) in [caz002/art-app](https://github.com/caz002/art-app)
-3. 💪 Opened PR [#55](https://github.com/caz002/art-app/pull/55) in [caz002/art-app](https://github.com/caz002/art-app)
-4. 🗣 Commented on [#8345](https://github.com/hackforla/website/pull/8345#issuecomment-3330485975) in [hackforla/website](https://github.com/hackforla/website)
-5. 💪 Opened PR [#54](https://github.com/caz002/art-app/pull/54) in [caz002/art-app](https://github.com/caz002/art-app)
+1. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3343933778) in [hackforla/website](https://github.com/hackforla/website)
+2. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3343930158) in [hackforla/website](https://github.com/hackforla/website)
+3. 🎉 Merged PR [#57](https://github.com/caz002/art-app/pull/57) in [caz002/art-app](https://github.com/caz002/art-app)
+4. ❗ Opened issue [#56](https://github.com/caz002/art-app/issues/56) in [caz002/art-app](https://github.com/caz002/art-app)
+5. 💪 Opened PR [#55](https://github.com/caz002/art-app/pull/55) in [caz002/art-app](https://github.com/caz002/art-app)
 <!--END_SECTION:activity-->
