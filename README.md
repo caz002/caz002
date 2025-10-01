@@ -11,9 +11,9 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8355](https://github.com/hackforla/website/pull/8355#issuecomment-3354059271) in [hackforla/website](https://github.com/hackforla/website)
-2. ❗ Opened issue [#8353](https://github.com/hackforla/website/issues/8353) in [hackforla/website](https://github.com/hackforla/website)
-3. ❗ Opened issue [#8352](https://github.com/hackforla/website/issues/8352) in [hackforla/website](https://github.com/hackforla/website)
-4. 💪 Opened PR [#58](https://github.com/caz002/art-app/pull/58) in [caz002/art-app](https://github.com/caz002/art-app)
-5. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3344269270) in [hackforla/website](https://github.com/hackforla/website)
+1. 🗣 Commented on [#8128](https://github.com/hackforla/website/issues/8128#issuecomment-3354606462) in [hackforla/website](https://github.com/hackforla/website)
+2. 🗣 Commented on [#8355](https://github.com/hackforla/website/pull/8355#issuecomment-3354059271) in [hackforla/website](https://github.com/hackforla/website)
+3. ❗ Opened issue [#8353](https://github.com/hackforla/website/issues/8353) in [hackforla/website](https://github.com/hackforla/website)
+4. ❗ Opened issue [#8352](https://github.com/hackforla/website/issues/8352) in [hackforla/website](https://github.com/hackforla/website)
+5. 💪 Opened PR [#58](https://github.com/caz002/art-app/pull/58) in [caz002/art-app](https://github.com/caz002/art-app)
 <!--END_SECTION:activity-->
