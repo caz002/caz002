@@ -11,9 +11,9 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8352](https://github.com/hackforla/website/issues/8352#issuecomment-3387903263) in [hackforla/website](https://github.com/hackforla/website)
-2. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3367917253) in [hackforla/website](https://github.com/hackforla/website)
-3. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3367917183) in [hackforla/website](https://github.com/hackforla/website)
-4. 🗣 Commented on [#8352](https://github.com/hackforla/website/issues/8352#issuecomment-3367914364) in [hackforla/website](https://github.com/hackforla/website)
-5. 🗣 Commented on [#8353](https://github.com/hackforla/website/issues/8353#issuecomment-3367913181) in [hackforla/website](https://github.com/hackforla/website)
+1. 🗣 Commented on [#8128](https://github.com/hackforla/website/issues/8128#issuecomment-3393608393) in [hackforla/website](https://github.com/hackforla/website)
+2. 💪 Opened PR [#8369](https://github.com/hackforla/website/pull/8369) in [hackforla/website](https://github.com/hackforla/website)
+3. 🗣 Commented on [#8352](https://github.com/hackforla/website/issues/8352#issuecomment-3387903263) in [hackforla/website](https://github.com/hackforla/website)
+4. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3367917253) in [hackforla/website](https://github.com/hackforla/website)
+5. 🗣 Commented on [#6709](https://github.com/hackforla/website/issues/6709#issuecomment-3367917183) in [hackforla/website](https://github.com/hackforla/website)
 <!--END_SECTION:activity-->
