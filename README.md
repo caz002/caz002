@@ -3,7 +3,6 @@
 I am @caz002, a software engineer passionate about exploring the realms of coding, machine learning, and fullstack development. 
 
 ## Currently Working On
-- 💻 Creating a digital sketching web app with a built-in habit tracker [Link](https://github.com/caz002/art-app)
 - 🤝 Volunteering for civic tech organizations at Hack for LA [Link](https://github.com/hackforla/website)
 
 ## Technologies Used
