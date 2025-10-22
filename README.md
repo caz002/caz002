@@ -10,9 +10,9 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
-2.  Assigned issue [#3](https://github.com/caz002/translator-app/issues/3) in [caz002/translator-app](https://github.com/caz002/translator-app)
-3.  Labeled issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
-4. ❗ Opened issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
-5.  Labeled issue [#6](https://github.com/caz002/translator-app/issues/6) in [caz002/translator-app](https://github.com/caz002/translator-app)
+1. 💪 Opened PR [#8](undefined) in [caz002/translator-app](https://github.com/caz002/translator-app)
+2.  Assigned issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
+3.  Assigned issue [#3](https://github.com/caz002/translator-app/issues/3) in [caz002/translator-app](https://github.com/caz002/translator-app)
+4.  Labeled issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
+5. ❗ Opened issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
 <!--END_SECTION:activity-->
