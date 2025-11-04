@@ -10,9 +10,9 @@ I am @caz002, a software engineer passionate about exploring the realms of codin
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8128](https://github.com/hackforla/website/issues/8128#issuecomment-3437497459) in [hackforla/website](https://github.com/hackforla/website)
-2. 💪 Opened PR [#8](undefined) in [caz002/translator-app](https://github.com/caz002/translator-app)
-3.  Assigned issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
-4.  Assigned issue [#3](https://github.com/caz002/translator-app/issues/3) in [caz002/translator-app](https://github.com/caz002/translator-app)
-5.  Labeled issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
+1.  Labeled issue [#8128](https://github.com/hackforla/website/issues/8128) in [hackforla/website](https://github.com/hackforla/website)
+2. 🗣 Commented on [#8128](https://github.com/hackforla/website/issues/8128#issuecomment-3488085037) in [hackforla/website](https://github.com/hackforla/website)
+3. 🗣 Commented on [#8128](https://github.com/hackforla/website/issues/8128#issuecomment-3437497459) in [hackforla/website](https://github.com/hackforla/website)
+4. 💪 Opened PR [#8](undefined) in [caz002/translator-app](https://github.com/caz002/translator-app)
+5.  Assigned issue [#7](https://github.com/caz002/translator-app/issues/7) in [caz002/translator-app](https://github.com/caz002/translator-app)
 <!--END_SECTION:activity-->
